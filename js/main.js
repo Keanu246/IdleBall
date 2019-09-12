@@ -3,7 +3,7 @@ var height = 900;
 var value = 0; 
 var context; 
 var level = 1; 
-var click = {multi: 1.15,rank: 1, bCost: 10,bDamage:10} 
+var click = {multi: 1.15,rank: 1, bCost: 10,bDamage:1000} 
 var baseCostMulti = 1.09; 
 var baseHealthMulti = 1.50; 
 var startingBalls = 10; 
